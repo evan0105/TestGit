@@ -1,15 +1,4 @@
-git test project.
+# TEST Markdown Editor
 
-change file test.
+测试MD编辑器与普通文本编辑器对md文件的影响。
 
-test backup.
-
-test git once again.
-
-create a new branch.
-
-test switch branch once again.
-
-new branch feature test success.
-
-markdown editor test.
